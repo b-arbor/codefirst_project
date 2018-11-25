@@ -15,7 +15,7 @@ h2 {
 }
 
 .jumbotron {
-    background-image: url(/Img-3/cats.jpg);
+    background-image: url("../Img-3/cats.jpg");
     max-width: 100%;
     background-repeat: repeat-x;
     background-size: cover;
@@ -79,7 +79,7 @@ h3 {
 ============================================*/ 
 
 .imageSlov {
-    background-image: url("/Img-3/apple.jpg");
+    background-image: url("../Img-3/apple.jpg");
     max-width: 100%;
     height: auto;
     background-size: cover;
@@ -89,7 +89,7 @@ h3 {
 }
 
 .imageRom {
-    background-image: url("/Img-3/angels.jpg");
+    background-image: url("../Img-3/angels.jpg");
     max-width: 100%;
     height: auto;
     background-size: cover;
@@ -99,7 +99,7 @@ h3 {
 }
 
 .imageGirls {
-    background-image: url("/Img-3/flowers.jpg");
+    background-image: url("../Img-3/flowers.jpg");
     max-width: 100%;
     height: auto;
     background-size: cover;

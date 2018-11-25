@@ -29,7 +29,7 @@ p {
 }
 
 .jumbotron{
-    background-image: url(/Img/food_banner.jpg); 
+    background-image: url(../Img/food_banner.jpg); 
     height: 300px; 
     background-repeat: no-repeat;
     background-size: cover;
@@ -94,17 +94,7 @@ p {
 /*==================================================
                Food Section - Food introduction
 ===================================================*/
-/*#food-1-bg-diagobal{
-    width: 35%;
-    height: 100%;
-    float: right;
-    background-image: url(../Img/DSC08230.JPG);
-    border-top: 500px solid transparent;
-}*/
-food-1-content-box{
-     float: left;
-    height: 300%;
-}
+
 #food-1-content-box-outer {
      width: 55%;
     height: 55%;

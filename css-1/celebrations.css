@@ -6,7 +6,7 @@ font-family: "Roboto", sans-serif;
 }
 
 .jumbotron{
-    background-image: url(/Img-1/banner.jpg); 
+    background-image: url(../Img-1/banner.jpg); 
     height: 300px; 
 }
 
