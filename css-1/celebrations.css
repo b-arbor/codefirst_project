@@ -26,8 +26,7 @@ h2 {
     margin: 0 auto 4% auto;
 }
 
-.introduction {
-  font-size: 300px;
+#introduction {
   text-align: center;
   font-size: 200px;
 }
