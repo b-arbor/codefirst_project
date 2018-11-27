@@ -21,8 +21,13 @@ h2 {
 .content-title-underline {
     width: 15%;
     height: 3px;
-    background-color: #ec8382;
+    background-color: #b2b2ff;
     margin: 0 auto 4% auto;
+}
+
+.introduction {
+  text-align: center;
+  font-size: 200px;
 }
 
 /*.container {
