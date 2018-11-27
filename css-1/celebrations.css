@@ -1,21 +1,21 @@
 /* General CSS */
 
-body{ 
+body{
 font-family: "Roboto", sans-serif;
     color: #343b3d;
 }
 
 .jumbotron{
-    background-image: url(../Img-1/banner.jpg); 
-    height: 300px; 
+    background-image: url(../Img-1/banner.jpg);
+    height: 300px;
 }
 
 h2 {
-    font-size: 380%; 
+    font-size: 380%;
     font-weight: 900;
     text-align: center;
     margin: 3% 1% 3% 1%;
-    text-transform: uppercase; 
+    text-transform: uppercase;
 
 }
 .content-title-underline {
@@ -26,6 +26,7 @@ h2 {
 }
 
 .introduction {
+  font-size: 300px;
   text-align: center;
   font-size: 200px;
 }
@@ -39,7 +40,7 @@ h2 {
 .service-item-icon {
     color: #3c493f;
     padding: 1%;
-    margin: 2% 1% 2% 1%; 
+    margin: 2% 1% 2% 1%;
   text-align: center;
 }
 
@@ -59,8 +60,8 @@ p {
     color: #182B32 ;
     font-size: 116%;
     font-weight: 400;
-    text-align: left; 
+    text-align: left;
     padding-bottom: 30px;
-    margin: 5% 5% 5% 5%; 
-    
+    margin: 5% 5% 5% 5%;
+
 }
