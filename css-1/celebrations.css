@@ -25,6 +25,11 @@ h2 {
     margin: 0 auto 4% auto;
 }
 
+.introduction {
+  text-align: center;
+  font-size: 200px;
+}
+
 /*.container {
   float: left;
   width: 90%;
